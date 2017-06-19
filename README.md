@@ -1,7 +1,5 @@
 # GBPMF
 Code of of Bayesian Probabilistic Matrix Factorization based on Generalized Gaussian Distribution
-
- -*- coding: utf-8 -*-
  
  Copyright (C) 2017 Qinglong Zhang
  
